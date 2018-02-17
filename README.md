@@ -1,6 +1,6 @@
 # friendly
 ```clojure
-
+(require '[clojure.spec.alpha :as s])
 (require '[expound.alpha :as expound])
 (set! s/*explain-out* expound/printer)
 
