@@ -1,0 +1,5 @@
+{:deps {rebel-readline {:mvn/version "0.1.0-SNAPSHOT"}
+        github-slipset/expound {:git/url "https://github.com/slipset/expound.git" :sha "835909dbf20302c1ad81cc62d961ab846d169cfe"}
+        github-slipset/pyro {:git/url "https://github.com/slipset/pyro.git" :sha "4ab0797b4193c960e39eab5c92cf1bf64d88fc1e"}
+  
+}}
