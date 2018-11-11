@@ -15,3 +15,6 @@ Then type
 ```
 
 Thanks to @bhauman, @bhb, and @venantius
+
+Oh, and there's this:
+https://gist.github.com/bhb/2686b023d074ac052dbc21f12f324f18
